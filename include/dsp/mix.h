@@ -4,6 +4,7 @@
 #define SIGNALSMITH_DSP_MULTI_CHANNEL_H
 
 #include <array>
+#include <cmath>
 
 namespace signalsmith {
 namespace mix {
